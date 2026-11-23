@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "metalsolver",
+    "name": "Metal Solver",
+    "description": "Metal Detector chest finder for FakePixel (2D circle intersection).",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [],
+    "credits": ""
+  }
+]
